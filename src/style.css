@@ -1,0 +1,21 @@
+div{
+    background-color: lightblue;
+    text-align: center;
+padding: 0% 20%;
+}
+
+#header{
+    width: 100%;
+    text-align: center;
+    color: azure;
+}
+
+#form{
+    
+    background-color: azure;
+    text-align: center;
+}
+#map{
+    width: 100%;
+    height: 70vh;
+}
